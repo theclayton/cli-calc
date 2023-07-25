@@ -1,0 +1,17 @@
+{
+  "name": "cli-calc",
+  "version": "1.0.0",
+  "description": "Probably the coolest cli calculator you've ever seen, today.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "calc-me-up-scotty": "node ./dist/index.js",
+    "serve": "tsc ; npm run calc-me-up-scotty",
+    "test": "jest"
+  },
+  "author": "Clayton Ward",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "typescript": "^5.1.6"
+  }
+}

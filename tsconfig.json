@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "esnext",
+      "moduleResolution": "nodenext",
+      "target": "es2015",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outDir": "./dist/",
+      "sourceMap": false
+    },
+    "include": ["src/*"],
+    "exclude": ["**/*.spec.ts"]
+  }
