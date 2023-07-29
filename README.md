@@ -1,6 +1,6 @@
 # cli-calc
 
-This is probably the coolest cli calculator you've ever seen, today.
+Coding assessment
 
 ### Getting Started
 
